@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "rotate_seconds": 7,
+  "slides": [
+    {
+      "id": "geolab",
+      "tag": "Coming soon",
+      "title": "GeoEQ GeoLab",
+      "text": "Soil lab testing: grain size, Atterberg limits, USCS and AASHTO classification, straight into your borehole logs.",
+      "cta": "See the roadmap",
+      "url": "https://geoeq.dev/roadmap/",
+      "art": "lab"
+    },
+    {
+      "id": "cap-pile",
+      "tag": "In development",
+      "title": "GeoEQ CAP & Pile",
+      "text": "Bearing capacity, settlement and pile design, computed from the soil profile you already logged.",
+      "cta": "Follow progress",
+      "url": "https://geoeq.dev/software/foundation-design-software/",
+      "art": "pile"
+    },
+    {
+      "id": "python",
+      "tag": "Free and open source",
+      "title": "geoeq for Python",
+      "text": "170+ validated geotechnical functions, the same engine inside GeoEQ software.",
+      "cta": "Read the docs",
+      "url": "https://docs.geoeq.org",
+      "art": "code"
+    },
+    {
+      "id": "youtube",
+      "tag": "New video",
+      "title": "SPT Logs in 60 seconds",
+      "text": "From field spreadsheet to an issued borehole log, soil to rock, in one minute.",
+      "cta": "Watch on YouTube",
+      "url": "https://www.youtube.com/@geoeq",
+      "art": "video"
+    }
+  ]
+}

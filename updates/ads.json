@@ -1,24 +1,51 @@
 {
-  "version": 1,
+  "version": 2,
   "rotate_seconds": 7,
   "slides": [
     {
-      "id": "geolab",
-      "tag": "Coming soon",
-      "title": "GeoEQ GeoLab",
-      "text": "Soil lab testing: grain size, Atterberg limits, USCS and AASHTO classification, straight into your borehole logs.",
-      "cta": "See the roadmap",
+      "id": "dem",
+      "tag": "Releasing soon",
+      "title": "GeoEQ DEM 2D",
+      "text": "Discrete element modelling of soils and granular materials. 2D is releasing soon; 3D is in development.",
+      "cta": "Follow the roadmap",
       "url": "https://geoeq.dev/roadmap/",
-      "art": "lab"
+      "art": "dem"
     },
     {
-      "id": "cap-pile",
-      "tag": "In development",
-      "title": "GeoEQ CAP & Pile",
-      "text": "Bearing capacity, settlement and pile design, computed from the soil profile you already logged.",
-      "cta": "Follow progress",
+      "id": "liq",
+      "tag": "Releasing soon",
+      "title": "GeoEQ Liq",
+      "text": "Liquefaction analysis from SPT and CPT data, ready for your report.",
+      "cta": "Learn more",
+      "url": "https://geoeq.dev/software/liquefaction-analysis-software/",
+      "art": "liq"
+    },
+    {
+      "id": "cap",
+      "tag": "Releasing soon",
+      "title": "GeoEQ Cap",
+      "text": "Bearing capacity and settlement of shallow foundations, from the soil profile you logged.",
+      "cta": "Learn more",
       "url": "https://geoeq.dev/software/foundation-design-software/",
-      "art": "pile"
+      "art": "footing"
+    },
+    {
+      "id": "seismic",
+      "tag": "In development",
+      "title": "GeoEQ Seismic",
+      "text": "One- and two-dimensional seismic site response analysis.",
+      "cta": "Follow the roadmap",
+      "url": "https://geoeq.dev/roadmap/",
+      "art": "seismic"
+    },
+    {
+      "id": "lab",
+      "tag": "In development",
+      "title": "GeoEQ Lab",
+      "text": "Soil lab testing: grain size, Atterberg limits, USCS and AASHTO classification, straight into your borehole logs.",
+      "cta": "Learn more",
+      "url": "https://geoeq.dev/software/soil-lab-testing-software/",
+      "art": "lab"
     },
     {
       "id": "python",
